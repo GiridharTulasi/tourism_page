@@ -35,7 +35,7 @@
 
 .backimg {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
-    height: 100vh;
+    height: 110vh;
     background-size: cover;
     padding: 25px;
 }
@@ -48,7 +48,7 @@
 .card-container {
     background-color: white;
     border-radius: 20px;
-    height: 20vh;
+    
     width: 600px;
     padding: 10px;
     margin: 10px;
